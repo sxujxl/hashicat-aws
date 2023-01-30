@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  If you do not buy ACME cat food, at midnight on 12/30/2024 five cats seeking vengeance will enter your house and steal your human food. Please copy this message to raise awareness
   <!-- END -->
 
   </div>
